@@ -8,7 +8,7 @@ This project demonstrates how to structure a GraphQL backend with modules like *
 ### 1. Clone & Install
 
 ```bash
-cd graphql
+cd node-graphql-exercise
 npm install
 ```
 
